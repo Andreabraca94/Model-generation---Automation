@@ -1,4 +1,4 @@
-# Model-generation---Automation
+# Model-generation | Automation
 Automatic generation of helmeted head impact simulations
 
 # General git repository/GitLab project structure
